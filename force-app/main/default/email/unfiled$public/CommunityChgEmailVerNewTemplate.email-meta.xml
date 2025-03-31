@@ -5,7 +5,7 @@
     <encodingKey>UTF-8</encodingKey>
     <name>Experience Cloud: New Email - Change Email Verification</name>
     <style>none</style>
-    <subject>Finish changing your {!Community_Name} account’s email address</subject>
+    <subject>Finish changing your {!Community_Name} account’s email address and then all of this will be finished</subject>
     <type>text</type>
     <uiType>Aloha</uiType>
 </EmailTemplate>
