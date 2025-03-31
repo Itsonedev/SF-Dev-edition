@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Small Gift</fullName>
+        <default>false</default>
+        <label>Small Gift</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Medium Gift</fullName>
+        <default>false</default>
+        <label>Medium Gift</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Large Gift</fullName>
+        <default>false</default>
+        <label>Large Gift</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Major Gift</fullName>
+        <default>false</default>
+        <label>Major Gift</label>
+    </standardValue>
+</StandardValueSet>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Target Audience --></label>
+    <name>Target_Audience__c</name>
+    <picklistValues>
+        <masterLabel>Adults</masterLabel>
+        <translation><!-- Adults --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Children 0-6 and parents</masterLabel>
+        <translation><!-- Children 0-6 and parents --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Children 7-12 and parents</masterLabel>
+        <translation><!-- Children 7-12 and parents --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>College/Career students</masterLabel>
+        <translation><!-- College/Career students --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Health Care Professionals</masterLabel>
+        <translation><!-- Health Care Professionals --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mental Health Providers</masterLabel>
+        <translation><!-- Mental Health Providers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Teenagers and parents</masterLabel>
+        <translation><!-- Teenagers and parents --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

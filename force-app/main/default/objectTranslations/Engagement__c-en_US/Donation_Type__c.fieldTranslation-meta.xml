@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Donation Type --></label>
+    <name>Donation_Type__c</name>
+    <picklistValues>
+        <masterLabel>Large Gift</masterLabel>
+        <translation><!-- Large Gift --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Major Gift</masterLabel>
+        <translation><!-- Major Gift --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Medium Gift</masterLabel>
+        <translation><!-- Medium Gift --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Small Gift</masterLabel>
+        <translation><!-- Small Gift --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

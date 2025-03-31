@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Service Category --></label>
+    <name>Service_Category__c</name>
+    <picklistValues>
+        <masterLabel>Case Management</masterLabel>
+        <translation><!-- Case Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Community Support</masterLabel>
+        <translation><!-- Community Support --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Crisis Services</masterLabel>
+        <translation><!-- Crisis Services --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Multi-Systemic Therapy</masterLabel>
+        <translation><!-- Multi-Systemic Therapy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Outpatient</masterLabel>
+        <translation><!-- Outpatient --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prescriptions</masterLabel>
+        <translation><!-- Prescriptions --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Residential</masterLabel>
+        <translation><!-- Residential --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

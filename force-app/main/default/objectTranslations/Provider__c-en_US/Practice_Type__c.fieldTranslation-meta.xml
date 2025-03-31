@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Practice Type --></label>
+    <name>Practice_Type__c</name>
+    <picklistValues>
+        <masterLabel>Agency</masterLabel>
+        <translation><!-- Agency --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hospital Inpatient/Outpatient</masterLabel>
+        <translation><!-- Hospital Inpatient/Outpatient --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Intermediate Care Facility</masterLabel>
+        <translation><!-- Intermediate Care Facility --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mental Healthy</masterLabel>
+        <translation><!-- Mental Healthy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Multi-Specialty</masterLabel>
+        <translation><!-- Multi-Specialty --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Physical Health</masterLabel>
+        <translation><!-- Physical Health --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Psychiatric Residential Treatment Facility</masterLabel>
+        <translation><!-- Psychiatric Residential Treatment Facility --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Solo Practitioner</masterLabel>
+        <translation><!-- Solo Practitioner --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
